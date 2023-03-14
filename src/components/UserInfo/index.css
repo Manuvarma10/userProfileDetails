@@ -1,0 +1,22 @@
+.userinfo-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.userprofile {
+  height: 100px;
+  width: 100px;
+}
+
+.profilename {
+  font-family: 'Roboto';
+  font-size: 25px;
+  color: #12022f;
+  font-weight: bold;
+}
+
+.profileDescription {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #9aa5b1;
+}
